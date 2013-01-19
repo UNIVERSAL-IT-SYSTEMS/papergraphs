@@ -8,7 +8,7 @@ http://knolleary.net/paper-graphs/
 
 The code uses [ReportLab Toolkit](http://www.reportlab.com/software/opensource/rl-toolkit/) for generating the PDFs.
 
-# #Usagi
+## Usage
 
 ### piegen.py
 
